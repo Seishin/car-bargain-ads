@@ -1,0 +1,12 @@
+C:\Users\Seishin1\Workspace\Visual Studio 2012\Projects\SimpleCarBargainApp\SimpleCarBargainApp\bin\Debug\SimpleCarBargainApp.exe.config
+C:\Users\Seishin1\Workspace\Visual Studio 2012\Projects\SimpleCarBargainApp\SimpleCarBargainApp\bin\Debug\SimpleCarBargainApp.exe
+C:\Users\Seishin1\Workspace\Visual Studio 2012\Projects\SimpleCarBargainApp\SimpleCarBargainApp\bin\Debug\SimpleCarBargainApp.pdb
+C:\Users\Seishin1\Workspace\Visual Studio 2012\Projects\SimpleCarBargainApp\SimpleCarBargainApp\obj\Debug\SimpleCarBargainApp.csprojResolveAssemblyReference.cache
+C:\Users\Seishin1\Workspace\Visual Studio 2012\Projects\SimpleCarBargainApp\SimpleCarBargainApp\obj\Debug\SimpleCarBargainApp.Form1.resources
+C:\Users\Seishin1\Workspace\Visual Studio 2012\Projects\SimpleCarBargainApp\SimpleCarBargainApp\obj\Debug\SimpleCarBargainApp.Properties.Resources.resources
+C:\Users\Seishin1\Workspace\Visual Studio 2012\Projects\SimpleCarBargainApp\SimpleCarBargainApp\obj\Debug\SimpleCarBargainApp.csproj.GenerateResource.Cache
+C:\Users\Seishin1\Workspace\Visual Studio 2012\Projects\SimpleCarBargainApp\SimpleCarBargainApp\obj\Debug\SimpleCarBargainApp.exe
+C:\Users\Seishin1\Workspace\Visual Studio 2012\Projects\SimpleCarBargainApp\SimpleCarBargainApp\obj\Debug\SimpleCarBargainApp.pdb
+C:\Users\Seishin1\Workspace\Visual Studio 2012\Projects\SimpleCarBargainApp\SimpleCarBargainApp\bin\Debug\EntityFramework.dll
+C:\Users\Seishin1\Workspace\Visual Studio 2012\Projects\SimpleCarBargainApp\SimpleCarBargainApp\bin\Debug\EntityFramework.xml
+C:\Users\Seishin1\Workspace\Visual Studio 2012\Projects\SimpleCarBargainApp\SimpleCarBargainApp\obj\Debug\SimpleCarBargainApp.EditForm.resources
